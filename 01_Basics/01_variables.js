@@ -3,4 +3,4 @@ let accEmail="romil@gmail.com"
 var accPass="123456"
 accCity="Gurgaon"
 
-console.log([accId,accEmail,accPass,accCity])
+console.table([accId,accEmail,accPass,accCity])
