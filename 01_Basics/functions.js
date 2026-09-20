@@ -20,3 +20,4 @@ function courseInfo(anyObject){
 }
 
 courseInfo(course);
+
